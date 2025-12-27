@@ -1,0 +1,13 @@
+# 校园网有线登录工具 - 依赖包列表
+# PyQt5 - GUI界面和系统托盘功能
+PyQt5>=5.15.0
+# pystray - 系统托盘图标管理
+pystray>=0.19.0
+# Pillow - 图像处理（用于系统托盘图标）
+Pillow>=8.0.0
+# requests - HTTP请求处理（用于网络认证）
+requests>=2.25.0
+# pywin32 - Windows系统功能调用
+pywin32>=227
+# cryptography - 密码加密存储
+cryptography>=3.4.0
